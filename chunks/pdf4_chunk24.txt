@@ -1,0 +1,7 @@
+screen of Classified documents using AI/ML 
+ 
+1. Classified Documents:  
+Each document that has been successfully classified is stored in its respective folder within the Classified 
+Documentsdirectory. As shown in Fig. 3, the classified documents are systematically sorted into specific 
+categories (e.g., admission forms, Aadhaar cards, lab reports, etc.) based on their content. These files are 
+organized into subfolders named after their respective categories, ensuring efficient management and

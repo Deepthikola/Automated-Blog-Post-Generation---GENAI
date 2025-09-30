@@ -1,0 +1,53 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dataset Used in the Document Management System</title>
+    <style>
+        .caption {
+            text-align: center;
+            font-style: italic;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Dataset Used in the Document Management System</h1>
+
+<p>Document management is crucial for efficient operations across various sectors, including healthcare, finance, and logistics.  The increasing digitization leads to an exponential growth in the volume of documents, demanding robust and automated systems for processing and storage. This blog post details the dataset utilized in a newly developed document management system designed to address these challenges.</p>
+
+<h2>Introduction</h2>
+
+<p>Our document management system tackles the complexities associated with managing diverse document formats and content types. It aims to reduce manual intervention, minimize errors, and enhance overall operational efficiency. The system leverages techniques such as OCR (Optical Character Recognition), Naïve Bayes classification, pattern matching, and OpenCV for efficient document processing.  It is designed to be adaptable to real-world scenarios, dealing effectively with unstructured data.</p>
+
+<h2>Dataset Description</h2>
+
+<p>The dataset used for training and testing our system consists of 47 documents.  This diverse collection includes a range of document types crucial for testing the system’s versatility:</p>
+
+<ul>
+    <li>Four Aadhaar cards</li>
+    <li>Ten hospital admission forms</li>
+    <li>Eight insurance documents</li>
+    <li>Twelve lab reports</li>
+    <li>Eleven unrecognized or handwritten medication documents</li>
+</ul>
+
+<p>These documents are initially uploaded and stored in the <code>uploaded_documents</code> folder.  They then undergo a preprocessing stage to extract text, enabling classification into predefined categories. Documents that cannot be automatically classified are flagged for manual review, a critical safety mechanism for ensuring accuracy and handling complex or ambiguous cases.</p>
+
+<img src="images/extracted/pdf4_p1_img23_a_screenshot_of_a_computer_screen_with_a_bunch_of_.png" alt="Sample Documents">
+<p class="caption">A sample of the diverse document types included in the dataset.</p>
+
+
+<p>The inclusion of handwritten medication documents highlights the system's ability to handle less structured data. The system uses a combination of advanced preprocessing techniques, rule-based detection, and AI/ML-driven text analysis to achieve robust classification.  <em>This ensures both speed and accuracy in handling large volumes of documents.</em> </p>
+
+
+<h2>Conclusion</h2>
+
+<p>The dataset, comprising a variety of document types and including challenging examples like handwritten documents, provides a robust testing ground for our document management system.  The system's ability to accurately classify and manage this diverse collection demonstrates its practical applicability and potential for real-world deployment across various industries where streamlined document management is essential.  The manual review process ensures that critical documents are not overlooked, contributing to a reliable and robust document management workflow. </p>
+
+</body>
+</html>
+```

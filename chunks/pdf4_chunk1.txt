@@ -1,0 +1,14 @@
+International Journal on Science and Technology (IJSAT) 
+E-ISSN: 2229-7677   ●   Website: www.ijsat.org   ●   Email: editor@ijsat.org 
+ 
+IJSAT25012828 
+Volume 16, Issue 1, January-March 2025 
+1
+ 
+Document Template Matching Using AI/ML 
+Dr. Nasreen Fathima1, Sanjay Waugh2, Mohammed Safee3,  
+Mohammed Kaleem4, Mohammed Muzamil5 
+1, 2, 3, 4, 5 Dept. of Computer Science and Design ATME College of Engineering Mysore, India 
+ 
+Abstract 
+This study explores a robust system for automating document cla

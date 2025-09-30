@@ -1,0 +1,15 @@
+ining policy numbers, claims, and premiums, facilitating efficient retrieval and 
+propcessing  
+ 
+International Journal on Science and Technology (IJSAT) 
+E-ISSN: 2229-7677   ●   Website: www.ijsat.org   ●   Email: editor@ijsat.org 
+ 
+IJSAT25012828 
+Volume 16, Issue 1, January-March 2025 
+7
+ 
+ 
+Figure.6: Output of Classified Insurance Document 
+5. Lab Document 
+Lab report documents are classified based on specific keywords and patterns, such as "blood group," 
+"cholesterol," or "test report," as

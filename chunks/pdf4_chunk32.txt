@@ -1,0 +1,19 @@
+ining accurate records, reducing the risk of medication errors, and enhancing patient 
+care.  
+ 
+International Journal on Science and Technology (IJSAT) 
+E-ISSN: 2229-7677   ●   Website: www.ijsat.org   ●   Email: editor@ijsat.org 
+ 
+IJSAT25012828 
+Volume 16, Issue 1, January-March 2025 
+8
+ 
+ 
+ 
+ 
+ 
+ 
+Figure.8.Output of Classified Medication documents 
+7. Unrecognized Documents:  
+Documents that the system could not categorize into any predefined folder using pattern-based match-
+ing, keyword an

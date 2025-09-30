@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-09-24 20:42:54",
+  "pipeline_version": "PDF-to-Blog v2.0",
+  "base_directory": "D:\\Automated Blog Post 2nd version - pymupdf",
+  "extraction_quality": {
+    "total_chunks": 48,
+    "total_characters": 23743,
+    "avg_chunk_length": 494.6458333333333,
+    "total_images": 20,
+    "extraction_time_seconds": 0.012441635131835938,
+    "extraction_memory_mb": 0.0
+  },
+  "chunk_quality": {
+    "total_chunks": 48,
+    "duplicate_count": 

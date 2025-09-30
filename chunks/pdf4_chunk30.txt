@@ -1,0 +1,8 @@
+depicted in Fig. 7. These documents are automatically organized into 
+the "lab_report" folder, ensuring efficient access and systematic management. The system identifies key 
+terms commonly found in medical lab files and categorizes the documents accordingly. This automated 
+process streamlines the handling of lab-related records, reducing manual effort, minimizing errors, and 
+enhancing efficiency in medical data organization. 
+ 
+Figure.7. Outputof Classified Hospital Lab Report 
+6. Medication

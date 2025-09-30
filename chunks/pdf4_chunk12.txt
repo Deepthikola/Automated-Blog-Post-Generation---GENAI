@@ -1,0 +1,6 @@
+me existing 
+systems use basic keyword-matching techniques to classify documents. These systems search for 
+predefined keywords within the text of a document and assign it to a category based on the presence of 
+those keywords. While this approach is faster than manual sorting, it has significant limitations. It fails to 
+handle variations in document structure, differences in wording, or the absence of expected keywords. 
+Additionally, such systems do not perform well when dealing with handwrit

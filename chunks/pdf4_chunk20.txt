@@ -1,0 +1,5 @@
+odel assigns documents to predefined categories with a high degree of accuracy. 
+After classification, documents are automatically sorted into designated folders based on their category, 
+streamlining the organization process. For documents that cannot be classified, the system flags them for 
+manual review, moving them to a separate folder to minimize errors and ensure no files are overlooked. 
+This approach not only automates the classification process but also addresses challenges associated

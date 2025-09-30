@@ -1,0 +1,7 @@
+: Output of Classified Aadhar document 
+3. Admission Form: 
+The system successfully classified admission form documents into their designated folder by identifying 
+key patterns such as "date of admission," "discharge date," "patient name," and "hospital name." These 
+keywords ensure precise categorization and demonstrate the system's ability to recognize critical 
+healthcare-related details, simplifying hospital record management and improving document accessibil-
+ity. The classification proces

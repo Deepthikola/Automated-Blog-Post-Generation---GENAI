@@ -1,0 +1,7 @@
+Form:  
+Medication documents typically include details such as prescriptions, dosage instructions, patient infor-
+mation, and notes from healthcare providers. The system identifies key terms like "prescription" and 
+"medication" to accurately classify these documents, organizing them into a dedicated folder for easy 
+access and efficient management, as shown in Fig. 8 
+This classification process ensures seamless retrieval of vital medical information, supporting healthcare 
+providers in mainta

@@ -1,0 +1,7 @@
+nced document classification, 
+emphasizing the role of feature extraction in improving recognition accuracy.[1] 
+ 
+A. D. Sharma and P. K. Reddy "Text Classification in Document Management Systems 
+In the Journal of Information Science and Technology, this paper surveys the state-of-the-art methods 
+for text classification used in document management systems. It covers traditional techniques as well as 
+recent advances in machine learning, with a focus on enhancing accuracy in automatically class

@@ -1,0 +1,14 @@
+ifying 
+documents from various domains, such as legal, medical, and financial sectors. The paper discusses 
+challenges like dealing with unstructured data and noisy documents, which are common in real-world 
+OCR applications. [2] 
+ 
+ 
+International Journal on Science and Technology (IJSAT) 
+E-ISSN: 2229-7677   ●   Website: www.ijsat.org   ●   Email: editor@ijsat.org 
+ 
+IJSAT25012828 
+Volume 16, Issue 1, January-March 2025 
+3
+ 
+R.S Singh and L.S. Sharma "Deep Learning Approaches for Document Clas

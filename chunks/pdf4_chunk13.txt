@@ -1,0 +1,9 @@
+ten text or documents with 
+noisy backgrounds. 
+ 
+II. Literature Survey  
+Character Recognition (OCR) and Its Applications in Document Processing 
+In the International Journal of Computer Vision and Image Processing, this survey explores the 
+advancements in OCR technology and its applications in document processing. The paper highlights 
+challenges such as handling handwritten text, noisy images, and multi-lingual documents. It also 
+reviews the integration of OCR with machine learning for enha

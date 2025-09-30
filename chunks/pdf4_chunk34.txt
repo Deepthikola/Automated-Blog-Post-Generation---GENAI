@@ -1,0 +1,10 @@
+s, 
+the system ensures they can be manually inspected and reclassified as needed. This not only safeguards 
+important documents but also enhances future classification accuracy, contributing to a more robust and 
+reliable document management process. 
+ 
+ 
+ 
+Figure.9. Output of Unrecognized Documents in the unrecognised folder 
+The proposed document classification framework effectively combines advanced preprocessing 
+techniques, rule-based detection, and AI/ML-driven text analysis to deliver a r

@@ -1,0 +1,6 @@
+sification 
+A SurveyIn the Journal of Artificial Intelligence Research, this paper examines the use of deep learning 
+techniques for document classification. It provides a comprehensive overview of architectures like 
+Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs) applied to text 
+classification. The authors discuss how deep learning models outperform traditional machine learning 
+methods in handling large and complex datasets, including those extracted using OCR from

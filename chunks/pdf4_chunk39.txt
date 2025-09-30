@@ -1,0 +1,5 @@
+e that standardizes inputs through grayscale conversion, resizing, and OCR-based text high-
+quality inputs for further analysis. The rule-based detection, powered by regex, handles straightforward 
+classifications efficiently, while the AI/ML-based  Naive Bayes classifier, tackles more complex cases 
+with confidence scores, ensuring precision and computational efficiency. Unclassified documents are 
+systematically routed to an "unrecognized" folder for manual review, ensuring that no document go

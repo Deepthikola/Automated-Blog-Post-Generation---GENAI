@@ -1,0 +1,8 @@
+hniques with classifiers like Naive Bayes, Random Forests, and deep 
+learning models. The paper highlights the benefits of hybrid systems in improving document 
+classification accuracy and efficiency, particularly in handling documents with complex layouts, 
+varying fonts, and handwritten content.[4] 
+ 
+III.PROPOSEDSYSTEM 
+ This proposed system utilizes Optical Character Recognition (OCR) technology to extract text from 
+scanned or digital documents, converting unstructured image data into machi

@@ -1,0 +1,7 @@
+rocessing", vol. 27, pp. 24-23, 2024arXiv:1901.02212v2. 
+[5] Ding et al. (2023) review multi-scale and multi-resolution approaches to template matching, where 
+document images are processed at different scales and resolutions to enhance the detection of tem-
+plates 
+[6] Zhao et al. (2022) discuss deep learning methods for template matching, emphasizing the use of 
+convolutional neural networks (CNNs). Transfer learning and data augmentation are also used to 
+improve accuracy in template matching

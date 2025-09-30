@@ -1,0 +1,7 @@
+sing Convolu-
+tional Neural  Networks", International Journal of Artificial Intelligence and Applications, vol. 9, 
+pp. 40-55, 2022. 
+[13]  A. Anwar and S. Ahmed (2023) "Deep Learning for Document Classification and Image Pro-
+cessing", Journal of Computational and Graphical Statistics, vol. 18, pp. 123-137, 2023. 
+[14]  M. Z. Afzal, S. Capobianco, M. I. Malik, S. Marinai, T. M. Breuel, A. Dengel, and M. Liwicki, 
+"Deepdocclassifier: Document classification with deep convolutional neural network

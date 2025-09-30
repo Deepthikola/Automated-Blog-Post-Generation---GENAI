@@ -1,0 +1,14 @@
+with unstructured data, varied document formats, and mixed content types. It is designed to reduce 
+manual intervention, minimize errors, and improve operational efficiency, making it a practical and 
+adaptable tool for real-world document management tasks. 
+ 
+International Journal on Science and Technology (IJSAT) 
+E-ISSN: 2229-7677   ●   Website: www.ijsat.org   ●   Email: editor@ijsat.org 
+ 
+IJSAT25012828 
+Volume 16, Issue 1, January-March 2025 
+4
+ 
+ 
+ 
+Figure 1: Flow Chart of the Proposed S

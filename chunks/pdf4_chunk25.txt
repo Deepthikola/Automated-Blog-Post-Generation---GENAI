@@ -1,0 +1,8 @@
+easy accessibility. 
+ 
+2. Aadhaar card documents: 
+The system successfully classified Aadhaar card documents into its designated folder by identifying spe-
+cific keywords such as "Aadhaar," "UIDAI," "identity," and "DOB" in the extracted text. These keywords 
+align with the predefined criteria for Aadhaar-related documents, ensuring precise categorization. This 
+automated process organizes all Aadhaar card files efficiently, facilitating easy access and retrieval. 
+The accurate classification o

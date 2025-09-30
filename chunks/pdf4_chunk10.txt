@@ -1,0 +1,6 @@
+cument images, ensuring that 
+OCR operates with maximum efficiency. Furthermore, the system is designed to handle unrecognized 
+documents by segregating them for manual review, thus minimizing the risk of misclassification. 
+The proposed system also integrates preprocessing techniques using OpenCV to enhance the quality of 
+images before applying OCR [9][10]. Techniques such as grayscale conversion, resizing, and noise 
+removal are employed to standardize document images, ensuring that OCR opera

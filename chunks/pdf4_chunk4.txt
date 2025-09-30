@@ -1,0 +1,10 @@
+thcare, finance, and logistics where streamlined document management is 
+essential. 
+ 
+Keywords: OCR, Naïve Bayes, Classification, Pattern Matching, OpenCV 
+ 
+I. Introduction 
+Document management is a critical aspect of modern-day operations across industries such as healthcare, 
+finance, education, and government services. As organizations increasingly transition toward digitization, 
+the volume of documents generated, processed, and stored grows exponentially. Among these documents 
+are forms,

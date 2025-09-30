@@ -1,0 +1,6 @@
+ce trained, they 
+can predict the category of a document based on its textual content. In cases where the machine learning 
+model's confidence is low, fallback mechanisms using pattern-based keyword matching ensure a robust 
+classification process [6][7]...  Our The proposed system also integrates preprocessing techniques using 
+OpenCV to enhance the quality of images before applying OCR [9][10]. Techniques such as grayscale 
+conversion, resizing, and noise removal are employed to standardize do

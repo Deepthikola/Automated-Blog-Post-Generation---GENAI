@@ -1,0 +1,8 @@
+obust and scalable 
+solution for automated document categorization. Beginning with a comprehensive preprocessing 
+pipeline that standardizes inputs through grayscale conversion, resizing, and OCR-based text high-
+quality inputs for further analysis. The rule-based detection, powered by regex, handles straightforward 
+classifications efficiently, while the AI/ML-based  Naive Bayes classifier, tackles more complex cases 
+ 
+International Journal on Science and Technology (IJSAT) 
+E-ISSN: 2229-7677

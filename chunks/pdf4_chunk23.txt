@@ -1,0 +1,20 @@
+2 
+ 
+ 
+Figure 2: Sample images from the hospital Data Set 
+ 
+ 
+ 
+International Journal on Science and Technology (IJSAT) 
+E-ISSN: 2229-7677   ●   Website: www.ijsat.org   ●   Email: editor@ijsat.org 
+ 
+IJSAT25012828 
+Volume 16, Issue 1, January-March 2025 
+5
+ 
+IV. Results 
+The code performs the classification of documents into predefined categories using OCR (pattern 
+matching) keyword detection and an AI-based classifier. Below is the expected result/output after 
+running  
+ 
+Figure. 3: Output

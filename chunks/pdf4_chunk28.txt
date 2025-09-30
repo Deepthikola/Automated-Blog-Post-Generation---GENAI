@@ -1,0 +1,9 @@
+s organizes admission forms containing essential details like admission and 
+discharge dates, patient names, hospital names, and ward information into their respective folder as 
+shown in Fig. 5. 
+ 
+Figure 5: Output of classified Admission Form 
+4. Insurance Document:  
+Insurance documents are systematically classified into their respective folders using predefined patterns 
+and AI/ML-based classification, as illustrated in Fig. 6. This process ensures accurate categorization of 
+documents conta

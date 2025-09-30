@@ -1,0 +1,6 @@
+ike traditional manual processing, OCR-based systems enhance efficiency, reduce human error, and 
+improve scalability. The process involves identifying key features or patterns within documents to 
+classify them into predefined categories, such as admission forms, identity cards, medical reports, or 
+insurance documents. 
+The Document Template Matching Using OCR project aims to automate the classification of various 
+document types using a combination of image processing, machine learning, and p

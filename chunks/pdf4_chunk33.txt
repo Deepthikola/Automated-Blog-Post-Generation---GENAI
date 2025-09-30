@@ -1,0 +1,5 @@
+alysis, or AI/ML-based classification. These documents are stored in the "unrecognized" 
+folder for further review or manual intervention, ensuring that no document is overlooked. This process 
+provides an opportunity to manually classify these files, which can help refine the system’s accuracy 
+over time.Fig. 9. showcases how these documents are securely stored. Unrecognized files may result 
+from poor image quality, missing critical patterns, or unidentifiable text. By isolating these document

@@ -1,0 +1,7 @@
+22. 
+[10]  G. K. Pal and S. S. Bhowmick (2023) "A Survey on Document Classification and Text Mining", 
+International Journal of Computer Applications, vol. 173, pp. 25-38, 2023. 
+[11]  G. V. Ganapathi raju and A. H. V. V. S. S. Srinivas (2023) "Document  Classification Using Naive 
+Bayes and Support Vector Machines", International Journal of Data Mining & Knowledge Man-
+agement Process, vol. 12, pp. 17-31, 2023. 
+[12]  J. W. Zhang and X. L. Song (2022) "Improved OCR and Document Classification u

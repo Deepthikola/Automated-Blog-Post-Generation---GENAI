@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Dataset Used in the Document Management System</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 40px; }
+    h1, h2 { color: #2c3e50; }
+    img { max-width: 100%; margin: 20px 0; border: 1px solid #ccc; }
+    .caption { font-style: italic; color: #555; margin-bottom: 40px; }
+    hr { margin: 40px 0; }
+  </style>
+</head>
+<body>
+<h1>Dataset Used in the Document Management System</h1>
+
+<p># Dataset Used in the Document Management System
+
+Document management is crucial for efficient operations across various sectors, including healthcare, finance, education, and government.  The increasing digitization of these sectors leads to an exponential growth in the volume of documents requiring processing and storage.  These documents often come in diverse formats, with varying structures and content types, presenting a significant challenge for manual management.  This blog post details the dataset used to train and test a novel document management system designed to address these challenges.
+
+**Introduction: The Need for Efficient Document Management**
+
+Modern organizations grapple with managing a massive influx of digital documents. These range from simple forms to complex reports, often containing unstructured data and diverse formats.  Manually processing this volume is time-consuming, error-prone, and inefficient.  Our system aims to automate this process, reducing manual intervention and improving overall operational efficiency.  Key technologies utilized include Optical Character Recognition (OCR), Naïve Bayes classification, pattern matching, and OpenCV for image processing.
+
+**Dataset Composition and Structure**
+
+The dataset used to develop and evaluate our document management system comprises a total of 47 documents. This relatively small but representative sample includes a variety of document types commonly encountered in real-world scenarios. The specific breakdown is as follows:
+
+* **Aadhaar Cards:** 4 documents
+* **Hospital Admission Forms:** 10 documents
+* **Insurance Documents:** 8 documents
+* **Lab Reports:** 12 documents
+* **Unrecognized/Handwritten Medication Documents:** 11 documents
+
+
+These documents were initially uploaded and stored in the `uploaded_documents` folder.  Subsequently, a preprocessing pipeline was applied to extract textual data, classify documents, and identify those requiring manual review.  The "unrecognized" category highlights the system's ability to flag documents that don't readily fit predefined categories, such as handwritten notes or documents with unusual formats.  This feature is vital for ensuring that no critical information is overlooked.  The system's handling of these unrecognized documents is a key aspect of its robustness.  These are then stored in a separate `unrecognized` folder for manual inspection and reclassification. This process helps improve the accuracy of future classifications, making the system more reliable over time.
+
+**Dataset Usage and System Workflow**
+
+The dataset was used in two primary ways:  first, to train the machine learning models (using techniques like Naïve Bayes classification) employed for automated document classification. Second, to test the system's ability to accurately classify documents based on their content and format.  The system uses a combination of techniques, including OCR for text extraction, rule-based detection for identifying specific patterns, and machine learning for more complex classification tasks. This layered approach enhances the overall accuracy and reliability of the document management process.
+
+**Conclusion:  A Scalable Solution for Diverse Document Management Needs**
+
+This relatively small, yet diverse, dataset played a crucial role in developing a robust document management system. The system's ability to handle a mixture of structured and unstructured data, along with its capacity to flag ambiguous documents for manual review, makes it a highly adaptable solution for organizations facing the challenges of managing large volumes of diverse documents.  Future iterations will involve expanding the dataset to encompass a broader range of document types and formats to further improve the system's performance and accuracy.  The ongoing development incorporates feedback from manual review to continuously refine the classification process and enhance the system's overall efficiency.</p>
+
+<hr>
+<h2>Relevant Images</h2>
+<img src="../images/extracted/pdf3_p89_img1_a_document_with_a_list_of_the_various_types_of_the.png" alt="a document with a list of the various types of the text">
+<div class="caption">a document with a list of the various types of the text</div>
+<img src="../images/extracted/pdf3_p39_img1_a_document_with_a_list_of_the_various_types_of_the.png" alt="a document with a list of the various types of the text">
+<div class="caption">a document with a list of the various types of the text</div>
+<img src="../images/extracted/pdf3_p26_img1_a_document_with_a_description_of_the_contents.png" alt="a document with a description of the contents">
+<div class="caption">a document with a description of the contents</div>
+<img src="../images/extracted/pdf3_p91_img1_a_sample_of_the_text_in_the_text_editor.png" alt="a sample of the text in the text editor">
+<div class="caption">a sample of the text in the text editor</div>
+
+</body>
+</html>

@@ -1,0 +1,10 @@
+attern-matching 
+techniques [3]. This approach not only saves time but also ensures accuracy in handling large volumes of 
+documents. By leveraging OCR, textual data is extracted from documents and analyzed using predefined 
+keywords, patterns, and machine learning models to determine the document type. 
+ 
+International Journal on Science and Technology (IJSAT) 
+E-ISSN: 2229-7677   ●   Website: www.ijsat.org   ●   Email: editor@ijsat.org 
+ 
+IJSAT25012828 
+Volume 16, Issue 1, January-March 2025

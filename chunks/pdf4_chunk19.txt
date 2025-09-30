@@ -1,0 +1,7 @@
+ne-readable content. To 
+ensure reliable and accurate OCR performance, preprocessing techniques such as image resizing and 
+grayscale conversion are applied for consistency across document types. The system employs regular 
+expressions and keyword-matching techniques to identify specific document categories, such as 
+admission forms, insurance documents, and lab reports. 
+A Naive Bayes classifier, a supervised learning algorithm, is trained using features derived from the 
+extracted text. This m

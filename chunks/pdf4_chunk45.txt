@@ -1,0 +1,8 @@
+tasks. 
+[7]  V. R. Chandra and S. T. Pandey "Hybrid Approaches to Document Classification: Combining 
+OCR and Machine Learning",  vol. 22, pp. 6-20, 2022 
+[8]  S. K. Patel and N. V. Sharma (2024) "Machine Learning for Document Classification: A Compre-
+hensive Survey", vol. 21, pp. 5-21,2024 
+[9]  S. L. Phung and P. F. W. O'Neill (2022) "Optical Character Recognition (OCR) for Document Im-
+age Processing", IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 44, pp. 
+200-215, 20

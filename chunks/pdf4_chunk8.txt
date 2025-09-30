@@ -1,0 +1,7 @@
+2
+ 
+A case study to manage hospital documents is considered here. For example, admission forms may 
+contain specific fields such as "Date of Admission" or "Patient Name," while Aadhaar cards feature 
+unique identifiers such as "UIDAI" and "Identity Number." The use of machine learning models, such as 
+Naive Bayes classifiers, adds a layer of intelligence to the classification process [4][5][8]. These models 
+are trained on labeled datasets containing textual features extracted from templates. On

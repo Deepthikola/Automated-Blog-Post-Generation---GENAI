@@ -1,0 +1,6 @@
+reports, and identity proofs, each requiring classification and organization for efficient retrieval 
+and usage [1]. This shift has created a demand for robust and automated solutions for document 
+processing, including classification, validation, and storageOne innovative approach to addressing this 
+challenge is document template matching using Optical Character Recognition (OCR) [2]. OCR 
+technology enables machines to extract and interpret textual data from scanned documents or images. 
+Unl

@@ -1,0 +1,9 @@
+scanned 
+documents in consistencies in training data. Our approach improves upon this by utilizing high-quality, 
+noise-free datasets for robust detection.[3] 
+ 
+V. R. Chandra and S. T. Pandey "Hybrid Approaches to Document Classification: Combining OCR and 
+Machine Learning 
+In theJournal of Data Mining and Knowledge Discovery, this survey explores hybrid models that 
+combine OCR with machine learning for document classification. It reviews several approaches that 
+integrate text extraction tec

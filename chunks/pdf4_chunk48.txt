@@ -1,0 +1,4 @@
+," in Proc. 13th 
+Int. Conf. Document Anal. Recognit., Aug. 2021, pp. 1111-1115 
+[15]  L. Likforman-Sulem, A. Zahour, and B. Taconet, "Text line segmentation of historical documents: 
+a survey," Int. J. Document Anal. Recognit., vol. 9, no. 2, pp. 123-138, 2021.

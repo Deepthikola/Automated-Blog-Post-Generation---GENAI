@@ -1,0 +1,63 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dataset Used in the Document Management System</title>
+    <style>
+        .blog-image {
+            max-width: 100%;
+            height: auto;
+        }
+        .image-container {
+            text-align: center;
+            margin-bottom: 1em;
+        }
+        .image-caption {
+            font-style: italic;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Dataset Used in the Document Management System</h1>
+
+    <section>
+        <h2>Introduction</h2>
+        <p>Document management is crucial for modern operations across various sectors, including healthcare, finance, education, and government.  The increasing digitization leads to an exponential growth in the volume of documents requiring processing and storage.  These documents range from forms to complex reports, presenting challenges in efficient management.</p>
+        <p>This blog post details the dataset used in a newly developed document management system designed to handle the complexities associated with unstructured data, varied document formats, and mixed content types. The system aims to reduce manual intervention, minimize errors, and improve overall operational efficiency.</p>
+    </section>
+
+    <section>
+        <h2>Dataset Composition and Preprocessing</h2>
+        <p>The dataset used for training and testing the document management system comprises a total of 47 documents. These documents were scanned and stored in the <code>uploaded_documents</code> folder.  Before processing, each document undergoes preprocessing steps to extract text and classify them.</p>
+        <ul>
+            <li><strong>Aadhaar Cards:</strong> 4</li>
+            <li><strong>Hospital Admission Forms:</strong> 10</li>
+            <li><strong>Insurance Documents:</strong> 8</li>
+            <li><strong>Lab Reports:</strong> 12</li>
+            <li><strong>Unrecognized/Handwritten Medication Documents:</strong> 11</li>
+        </ul>
+        <p>The system utilizes techniques such as Optical Character Recognition (OCR), pattern matching, and machine learning models (e.g., Naïve Bayes classification) to analyze the extracted textual data and categorize documents.  For documents that cannot be automatically classified, the system flags them for manual review.</p>
+        <div class="image-container">
+            <img src="images/extracted/pdf4_p1_img23_a_screenshot_of_a_computer_screen_with_a_bunch_of_.png" class="blog-image">
+            <p class="image-caption">Example of a document requiring manual review.</p>
+        </div>
+        <p><em>Note:  The image above shows an example of the type of document that might end up in the "unrecognized" category, requiring manual classification and improvement of future classification accuracy.</em></p>
+    </section>
+
+
+    <section>
+        <h2>System Workflow</h2>
+        <p>The system's workflow involves several steps:  First, documents are uploaded and scanned. Then, OCR extracts textual data. This data is then analyzed using predefined keywords, patterns, and machine learning algorithms for classification.  Finally, documents are categorized and stored, with those requiring manual review flagged for later processing.</p>
+        <p>This approach leverages advanced preprocessing techniques, rule-based detection, and AI/ML-driven text analysis to ensure accurate and efficient document handling, even with large volumes of diverse documents.</p>
+    </section>
+
+    <section>
+        <h2>Conclusion</h2>
+        <p>The dataset, consisting of 47 diverse documents, plays a crucial role in training and validating the performance of the document management system.  By combining advanced techniques and addressing the challenges of unstructured data, the system provides a practical and adaptable solution for real-world document management tasks. The inclusion of manual review for unrecognized documents ensures accuracy and allows for continuous improvement of the system's classification capabilities.</p>
+    </section>
+</body>
+</html>
+```

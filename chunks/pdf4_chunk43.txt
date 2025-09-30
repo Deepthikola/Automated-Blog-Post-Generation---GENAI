@@ -1,0 +1,8 @@
+2023 
+[2] P. R. Jain and S. K. Gupta, "A Survey on Optical Character Recognition (OCR) and Its Applications 
+in Document Processing", vol. 35, pp. 11-21, 2023. 
+[3] Gordo, A. Fornes, E. Valveny, and J. Lladós, 
+"Document classification using a convolutional neural network with supervised fine-tuning," 
+ in Proc. 12th Int. Conf. Document Anal. Recognit., Aug. 2020, pp. 1433-1437”. 
+[4] P. R. Jain and S. K. Gupta, "A Survey on Optical Character Recognition (OCR) and Its Applications 
+in Document P

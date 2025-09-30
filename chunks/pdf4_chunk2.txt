@@ -1,0 +1,6 @@
+ssification and structured data 
+extraction using Optical Character Recognition (OCR). The proposed solution harnesses OCR 
+technology to accurately identify and match document templates by analyzing the layout, structure, 
+and textual content of scanned or digital documents. By comparing these features against a 
+predefined set of templates, the system enables efficient handling of documents such as invoices, 
+forms, and reports, significantly reducing manual intervention and improving accuracy

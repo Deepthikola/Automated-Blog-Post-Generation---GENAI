@@ -1,0 +1,8 @@
+olution 
+ 
+Dataset 
+The uploaded documents are scanned and stored in the uploaded_documents folder. These files undergo 
+preprocessing to extract text, classify them into predefined categories, or identify those requiring 
+manual review. The dataset comprises 47 documents in total, including four Aadhaar cards, ten hospital 
+admission forms, eight insurance documents, twelve lab reports, and eleven unrecognized or 
+handwritten medication documents. A sample from the dataset is illustrated in Fig

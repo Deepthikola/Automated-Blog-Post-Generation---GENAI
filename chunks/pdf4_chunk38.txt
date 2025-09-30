@@ -1,0 +1,9 @@
+practical and reliable solution for 
+organizations dealing with large volumes of documents requiring automated classification, enhancing 
+operational efficiency and reducing manual workload 
+ 
+.V.Conclusion 
+The proposed document classification framework effectively combines advanced preprocessing 
+techniques, rule-based detection, and AI/ML-driven text analysis to deliver a robust and scalable 
+solution for automated document categorization. Beginning with a comprehensive preprocessing 
+pipelin

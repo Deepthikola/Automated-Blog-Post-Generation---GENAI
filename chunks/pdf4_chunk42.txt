@@ -1,0 +1,14 @@
+e current system cannot recognised the documents  and classify. In future work, we aim to 
+extend our model to include Multilingual Support and others 
+ 
+ 
+International Journal on Science and Technology (IJSAT) 
+E-ISSN: 2229-7677   ●   Website: www.ijsat.org   ●   Email: editor@ijsat.org 
+ 
+IJSAT25012828 
+Volume 16, Issue 1, January-March 2025 
+10
+ 
+VII.  References 
+[1] D. Sharma and P. K. Reddy "Text Classification in Document Management Systems: Trends and 
+Challenges",  vol. 15, pp. 10-36,
